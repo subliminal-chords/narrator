@@ -1,0 +1,18 @@
+# Note to Apple Silicon users:
+# use pip install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cpu
+torch
+torchvision
+torchaudio
+
+# Other dependencies
+numba
+inflect
+psutil
+transformers
+scipy
+nltk
+tqdm
+argparse
+
+# Models
+bark
